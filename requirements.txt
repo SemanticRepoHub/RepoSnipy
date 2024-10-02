@@ -1,0 +1,14 @@
+accelerate
+docarray
+pandas
+numpy
+streamlit
+torch
+transformers
+tqdm
+scikit-learn
+nltk
+plotly
+joblib
+matplotlib
+torchmetrics
